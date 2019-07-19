@@ -1,5 +1,12 @@
-# lelloconsultoria
+# NZX-CMS Website Template
 Codeigniter + Bootstrap + Jquery + AdminLTE + FontAwesome
+
+O objetivo é simples, criar um template CMS multipropósito para webdesigners iniciantes que desejam entregar um trabalho de qualidade e custo baixo.
+O Script não está a venda, é grátis.
+Foi útil pra você? Doações são bem vindas.
+
+Dogecoin: DSNpz1c7zaNmXMTQdd5GxZvYtmjTtXHj4p
+Ethereum: 0x63db5ae0873dc14d15f31b7ed59f354e4676c18b
 
 Instalação:
 - Importe o arquivo SQL na pasta DATABASE
@@ -8,7 +15,7 @@ Instalação:
 
 painel de administração:
 http://seusite.com/admin
-usuario: admin@gmail.com
-Senha: 1234
+usuario: admin@admin.com
+Senha: admin
 
 
