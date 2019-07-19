@@ -7,6 +7,7 @@ Foi útil pra você? Doações são bem vindas.
 
 - Dogecoin: DSNpz1c7zaNmXMTQdd5GxZvYtmjTtXHj4p
 - Ethereum: 0x63db5ae0873dc14d15f31b7ed59f354e4676c18b
+- Bitcoin: 3GdD3z4vPTzYPwBLFegfXss1P6wFL9MFVk
 
 Instalação:
 - Importe o arquivo SQL na pasta DATABASE
