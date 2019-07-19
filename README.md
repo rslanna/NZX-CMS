@@ -10,7 +10,7 @@ Foi útil pra você? Doações são bem vindas.
 - Bitcoin: 3GdD3z4vPTzYPwBLFegfXss1P6wFL9MFVk
 
 Instalação:
-- Importe o arquivo SQL na pasta DATABASE
+- Importe o arquivo SQL da pasta DATABASE para seu phpmyadmin
 - coloque os seus dados do banco de dados em /application/config/database.php
 - Coloque a URL do seu site em /application/config/config.php
 
