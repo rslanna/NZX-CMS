@@ -5,10 +5,10 @@ if(!$this->session->userdata('id')) {
 ?>
 <section class="content-header">
 	<div class="content-header-left">
-		<h1>View FAQs</h1>
+		<h1>Ver Perguntas Frequentes</h1>
 	</div>
 	<div class="content-header-right">
-		<a href="<?php echo base_url(); ?>admin/faq/add" class="btn btn-primary btn-sm">Add New</a>
+		<a href="<?php echo base_url(); ?>admin/faq/add" class="btn btn-primary btn-sm">Adicionar Nova</a>
 	</div>
 </section>
 
@@ -43,9 +43,9 @@ if(!$this->session->userdata('id')) {
 			<thead>
 			    <tr>
 			        <th width="50">SL</th>
-			        <th>FAQ Title</th>
-			        <th>Show on home?</th>
-			        <th width="80">Action</th>
+			        <th>Título</th>
+			        <th>Mostrar na página inicial?</th>
+			        <th width="80">Ação</th>
 			    </tr>
 			</thead>
             <tbody>
@@ -59,8 +59,8 @@ if(!$this->session->userdata('id')) {
 			                <td><?php echo $row['faq_title']; ?></td>
 			                <td><?php echo $row['show_on_home']; ?></td>
 			                <td>
-			                    <a href="<?php echo base_url(); ?>admin/faq/edit/<?php echo $row['faq_id']; ?>" class="btn btn-primary btn-xs">Edit</a>
-			                    <a href="<?php echo base_url(); ?>admin/faq/delete/<?php echo $row['faq_id']; ?>" class="btn btn-danger btn-xs" onClick="return confirm('Are you sure?');">Delete</a> 
+			                    <a href="<?php echo base_url(); ?>admin/faq/edit/<?php echo $row['faq_id']; ?>" class="btn btn-primary btn-xs">Editar</a>
+			                    <a href="<?php echo base_url(); ?>admin/faq/delete/<?php echo $row['faq_id']; ?>" class="btn btn-danger btn-xs" onClick="return confirm('Are you sure?');">Excluir</a> 
 			                </td>
 			            </tr>
 			            <?php

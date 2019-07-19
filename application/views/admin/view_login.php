@@ -32,7 +32,7 @@
 
 <div class="login-box">
 	<div class="login-logo">
-		<b>Multix - Admin Panel</b>
+		<b>Painel de Administração</b>
 	</div>
   	<div class="login-box-body">
     	<p class="login-box-msg">Log in to start your session</p>

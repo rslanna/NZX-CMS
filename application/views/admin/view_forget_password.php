@@ -32,7 +32,7 @@
 
 <div class="login-box">
 	<div class="login-logo">
-		<b>Multix - Admin Panel</b>
+		<b>Painel de Administração</b>
 	</div>
   	<div class="login-box-body">
     	<h4 class="login-box-msg">Reset Password</h4>
