@@ -20,3 +20,18 @@ usuario: admin@admin.com
 Senha: admin
 
 
+FAQ:
+- Posso vender?
+R: Pode. Mas se ficar rico me pague um café.
+- Por que você não vende e fica rico?
+R: Pq mesmo se eu criptografar tudo, botar um monte de ofuscador e etc, sempre vai ter um cara na Finlândia que vai dar um jeito de crackear isso aqui e distribuir via torrent.
+- Se tiver algum erro, o que eu faço?
+R: Posta o Issue aqui no github, se conseguir resolver, me ajuda aí postando a solução.
+- O Lula já foi solto?
+R: Ainda não
+- Se eu tiver problemas durante a instalação, você me ajuda?
+R: A documentação tá bem clara, não tem segredo. Mas se tiver cinquentinha no bolso instalo até o The Sims pra você.
+
+
+
+
