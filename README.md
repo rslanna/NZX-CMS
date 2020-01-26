@@ -1,4 +1,4 @@
-# NZX-CMS Website Template Versão 1.1 (Deu Merda, Mas Consertei)
+# NZX-CMS Website Template Versão 1.1.1 (Deu Merda, Mas Consertei)
 Codeigniter + Bootstrap + Jquery + AdminLTE + FontAwesome
 
 O objetivo é simples, criar um template CMS multipropósito para webdesigners iniciantes que desejam entregar um trabalho de qualidade e custo baixo.
