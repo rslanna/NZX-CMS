@@ -35,6 +35,7 @@ class Social_media extends CI_Controller
 			$this->Model_social_media->update('StumbleUpon',array('social_url' => $_POST['stumbleupon']));
 			$this->Model_social_media->update('Delicious',array('social_url'   => $_POST['delicious']));
 			$this->Model_social_media->update('Digg',array('social_url'        => $_POST['digg']));
+			$this->Model_social_media->update('Pinterest',array('social_url'   => $_POST['pinterest']));
 
 		
 			$success = 'Social Media is updated successfully';
