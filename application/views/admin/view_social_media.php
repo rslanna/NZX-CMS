@@ -21,9 +21,6 @@ foreach ($social as $row) {
 	if($row['social_name'] == 'LinkedIn') {
 		$linkedin = $row['social_url'];
 	}
-	if($row['social_name'] == 'Google Plus') {
-		$googleplus = $row['social_url'];
-	}
 	if($row['social_name'] == 'Pinterest') {
 		$pinterest = $row['social_url'];
 	}
