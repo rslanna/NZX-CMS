@@ -935,7 +935,6 @@ INSERT INTO `tbl_social` (`social_id`, `social_name`, `social_url`, `social_icon
 (1, 'Facebook', 'http://www.google.com', 'fa fa-facebook'),
 (2, 'Twitter', 'http://www.google.com', 'fa fa-twitter'),
 (3, 'LinkedIn', 'http://www.google.com', 'fa fa-linkedin'),
-(4, 'Google Plus', '', 'fa fa-google-plus'),
 (5, 'Pinterest', 'http://www.google.com', 'fa fa-pinterest'),
 (6, 'YouTube', 'http://www.google.com', 'fa fa-youtube'),
 (7, 'Instagram', 'http://www.google.com', 'fa fa-instagram'),
