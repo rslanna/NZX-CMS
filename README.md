@@ -11,6 +11,8 @@ Doações são bem vindas.
 - Dogecoin: DSNpz1c7zaNmXMTQdd5GxZvYtmjTtXHj4p
 - Ethereum: 0x63db5ae0873dc14d15f31b7ed59f354e4676c18b
 - Bitcoin: 3GdD3z4vPTzYPwBLFegfXss1P6wFL9MFVk
+- PIX: rafael.lanna@outlook.com
+- Picpay: https://app.picpay.com/user/rslanna
 
 Instalação:
 - Importe o arquivo SQL da pasta DATABASE para seu phpmyadmin
@@ -38,7 +40,7 @@ R: Posta o Issue aqui no github, se conseguir resolver, me ajuda aí postando a 
 
 - O Lula já foi solto?
 
-R: Ainda não
+R: já...
 
 - Se eu tiver problemas durante a instalação, você me ajuda?
 
